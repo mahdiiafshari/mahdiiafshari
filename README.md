@@ -11,6 +11,7 @@ I’m passionate about blending **science, data, and technology** to build innov
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -45,8 +46,9 @@ I’m passionate about blending **science, data, and technology** to build innov
 ---
 
 ## 🏆 Featured Projects
-- **[kaggle-dataset]**: this is my answer to kaggle dataset using python. ([https://github.com/mahdiiafshari/kaggle-datasets](#))
-- **[kaggle-dataset]**: this is my answer to kaggle dataset using python. ([https://github.com/mahdiiafshari/kaggle-datasets](#))
+- **[kaggle-dataset]**: **kaggle-datasets** is a curated collection of datasets sourced from Kaggle and other data platforms, maintained for research, machine learning projects, and data analysis. This repository aims to make high-quality datasets easily accessible for experimentation, exploration, and educational purposes. You'll find datasets spanning various domains, including finance, healthcare, sports, and more, all organized for convenience. Contributions and new dataset suggestions are welcome! ([https://github.com/mahdiiafshari/kaggle-datasets](#))
+- **[Rate-Or-Write]**: A web application enabling users to write and share reviews on various topics, as well as rate content submitted by others. Developed with a focus on user engagement and community-driven feedback, the platform features secure authentication, intuitive interfaces, and scalable backend architecture. Technologies include Django, RESTful APIs, and modern frontend frameworks. Key contributions include designing the core database schema, implementing review and rating algorithms, and optimizing performance for high user traffic.([https://github.com/mahdiiafshari/Rate-or-Write](#))
+
 
 *Feel free to update with your own projects!*
 
