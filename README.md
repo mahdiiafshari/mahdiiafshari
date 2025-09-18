@@ -46,11 +46,8 @@ I’m passionate about blending **science, data, and technology** to build innov
 ---
 
 ## 🏆 Featured Projects
-- **[kaggle-dataset]**: **kaggle-datasets** is a curated collection of datasets sourced from Kaggle and other data platforms, maintained for research, machine learning projects, and data analysis. This repository aims to make high-quality datasets easily accessible for experimentation, exploration, and educational purposes. You'll find datasets spanning various domains, including finance, healthcare, sports, and more, all organized for convenience. Contributions and new dataset suggestions are welcome! ([https://github.com/mahdiiafshari/kaggle-datasets](#))
-- **[Rate-Or-Write]**: A web application enabling users to write and share reviews on various topics, as well as rate content submitted by others. Developed with a focus on user engagement and community-driven feedback, the platform features secure authentication, intuitive interfaces, and scalable backend architecture. Technologies include Django, RESTful APIs, and modern frontend frameworks. Key contributions include designing the core database schema, implementing review and rating algorithms, and optimizing performance for high user traffic.([https://github.com/mahdiiafshari/Rate-or-Write](#))
-
-
-*Feel free to update with your own projects!*
+- **[Kaggle Datasets](https://github.com/mahdiiafshari/kaggle-datasets)**: A curated collection of datasets from Kaggle and other platforms, designed for research, machine learning, and data analysis. Spanning domains like finance, healthcare, and sports, this repository simplifies access to high-quality datasets for experimentation and education. Contributions and dataset suggestions are welcome!
+- **[Rate-Or-Write](https://github.com/mahdiiafshari/Rate-or-Write)**: A user-driven web platform for writing and rating reviews on diverse topics. Built with Django, RESTful APIs, and React, it features secure authentication, intuitive UI, and a scalable backend. Key contributions include designing the database schema, implementing review/rating algorithms, and optimizing for high traffic.
 
 ---
 
