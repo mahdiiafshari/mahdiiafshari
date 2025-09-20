@@ -54,7 +54,6 @@ I’m passionate about blending **science, data, and technology** to build innov
 ## 📫 Get in Touch
 - 📧 **Email**: [mahdiafshari661384@gmail.com](mailto:mahdiafshari661384@gmail.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/mahdi-afshari](https://www.linkedin.com/in/mahdi-afshari-700a3a1aa/)
-- 🌐 **Portfolio**: [your-portfolio-website](#) *(Add your portfolio link here!)*
 
 ---
 
